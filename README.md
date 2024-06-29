@@ -1,5 +1,5 @@
 # Python CLI
-run this command and click on link
+run this command to start the CLI
 ```
 cd source_code
 python3 project.py
